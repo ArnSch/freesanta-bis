@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public"
+		}
+	]
+}
