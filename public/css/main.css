@@ -1,6 +1,38 @@
+#selectedModels{
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:150px;
+  padding-top:25px;
+}
+.selectedModelContainer{
+  display: inline-block;
+  float: left;
+  min-width: 450px;
+  min-height: 300px;
+  margin: 5px;
+  background-color: grey;
+}
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.selectedModels{
+  float: none;
+  margin: 0 auto;
+}
 .containerCarousel{
   size: 100%;
 }
+
+.item {
+  z-index: 100;
+}
+
 #owl-demo .item{
   display: block;
   padding: 30px 0px;
