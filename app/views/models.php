@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.css">
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.theme.css">
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.transitions.css">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/models.css">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- JavaScript -->
@@ -70,7 +70,7 @@
 			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/stern.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
 		</div>
 	</div>
-	<script src="js/carousel.js"></script>
 
+	<script src="js/models.js"></script>
 </body>
 </html>
