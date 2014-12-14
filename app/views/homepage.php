@@ -19,9 +19,24 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.js"></script>
 </head>
 <body>
-Hello
 
-<a class="btn btn-default" href="models">Create</a>
+	<div id="slide1" class="slide">
+		<div id="history">
+			<p class="txt_title">POTEM</p>
+			<p>Totémisez vos histoires</p>
+			<p>Vos histoires entre potes sont cultes.</p>
+			<p>Avec POTEM, vous les racontez à travers un totem.</p>
+			<p>/ Offrez un objet culte : le totem de votre histoire.</p>
+			<p>Choisissez des objets dans notre bibliothèque,</p>
+			<p>Ils symbolisent votre histoire, nous les érigeons en Totem.</p>
+			<p>Des symboles, un totem, des milliers de POTEMs à écrire.</p>
+		</div>
+		<a id="slideControllerDown" class="slideController" href="#slide2"><span class="fa fa-chevron-circle-down fa-5x"></span></a>
+	</div>
+
+	<div id="slide2" class="slide">
+		<a id="slideControllerUp" class="slideController" href="#slide1"><span class="fa fa-chevron-circle-up fa-5x"></span></a>
+	</div>
 
 	<script src="js/homepage.js"></script>
 </body>

@@ -11,10 +11,9 @@
 |
 */
 Route::get('/', function(){
-	// return View::make('homepage');
-	return View::make('models');
+	return View::make('homepage');
 });
 
-Route::get('/models', function(){
+Route::get('models', function(){
 	return View::make('models');
 });
