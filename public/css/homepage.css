@@ -6,7 +6,7 @@ body{
 }
 
 #history{
-	margin-left: 50%;
+	margin-left: 30%;
 	margin-top: 10%;
 	font-size: 30px;
 }
@@ -20,4 +20,5 @@ body{
 	margin-top: 150px;
 	margin-left: 30%;
 	font-size: 60px;
+	margin-bottom: 20px;
 }
