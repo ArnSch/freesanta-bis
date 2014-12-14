@@ -1,14 +1,11 @@
 body{
 	background-color: white;
 	background-image: url(http://127.0.0.1:8080/laravel/img/bg_logo.jpg);
-	background-attachment:fixed;
-	background-repeat:no-repeat;
 	background-size: 100vw 100vh;
+	margin: 0px;
 }
 
 #history{
-	width: 30vw;
-	height: 30vh;
 	margin-left: 50%;
 	margin-top: 10%;
 	font-size: 30px;
@@ -17,71 +14,10 @@ body{
 .txt_title{
 	font-size: 50px;
 	text-align: center;
-	color:
 }
 
-.slide{
-	width: 100vw;
-	height: 100vh;
+#btn_models{
+	margin-top: 150px;
+	margin-left: 30%;
+	font-size: 60px;
 }
-.slideController{
-	width: 100vw;
-	height: 100vh;
-	position: absolute;
-	left: 50%;
-	color: grey;
-}
-#slideControllerDown{
-	margin-bottom: 1px;
-}
-#slideControllerUp{
-	margin-top: 5%;
-}
-
-/*.carouselItem{
-	width: 100vh;
-	height: 100vh;
-	background-color: grey;
-}
-
-.vertical .carousel-inner {
-  height: 100%;
-}
-
-.carousel.vertical .item {
-  -webkit-transition: 0.6s ease-in-out top;
-  -moz-transition: 0.6s ease-in-out top;
-  -ms-transition: 0.6s ease-in-out top;
-  -o-transition: 0.6s ease-in-out top;
-  transition: 0.6s ease-in-out top;
-}
-
-.carousel.vertical .active {
-  top: 0;
-}
-
-.carousel.vertical .next {
-  top: 100%;
-}
-
-.carousel.vertical .prev {
-  top: -100%;
-}
-
-.carousel.vertical .next.left,
-.carousel.vertical .prev.right {
-  top: 0;
-}
-
-.carousel.vertical .active.left {
-  top: -100%;
-}
-
-.carousel.vertical .active.right {
-  top: 100%;
-}
-
-.carousel.vertical .item {
-    left: 0;
-}​
-*/

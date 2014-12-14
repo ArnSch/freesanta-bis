@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"cl",
+				"closest	.closest()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
 				"tex",
 				"text-align"
 			],
@@ -14,10 +42,6 @@
 			[
 				"margin",
 				"margin-left"
-			],
-			[
-				"mar",
-				"margin-top"
 			],
 			[
 				"add",
@@ -80,18 +104,18 @@
 	"buffers":
 	[
 		{
-			"file": "views/hello.php",
+			"file": "views/homepage.php",
 			"settings":
 			{
-				"buffer_size": 4415,
+				"buffer_size": 1787,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "views/homepage",
+			"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/homepage.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 345,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,23 +123,7 @@
 			"file": "routes.php",
 			"settings":
 			{
-				"buffer_size": 526,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/main.css",
-			"settings":
-			{
-				"buffer_size": 1891,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/js/carousel.js",
-			"settings":
-			{
-				"buffer_size": 852,
+				"buffer_size": 525,
 				"line_ending": "Unix"
 			}
 		}
@@ -123,7 +131,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 27.0,
 		"selected_items":
 		[
 			[
@@ -151,7 +159,7 @@
 				"Project: Save As"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -173,15 +181,27 @@
 	"expanded_folders":
 	[
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app",
-		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public"
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/packages"
 	],
 	"file_history":
 	[
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/js/homepage.js",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/homepage.css",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/models.css",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/js/models.js",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/models.php",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/homepage.php",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/models/User.php",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/models.js",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/js/carousel.js",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/main.css",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/hello.php",
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/homepage",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/routes.php",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/thingiverse.php",
 		"/Users/event/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/config/mail.php",
-		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/main.css",
 		"/Users/event/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/config/view.php",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/controllers/BaseController.php",
@@ -189,8 +209,7 @@
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/public/index.php",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/storage/views/.gitignore",
 		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/storage/views/6cf2652a33a3d5b3763a8533d682bf70",
-		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/emails/auth/reminder.blade.php",
-		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/hello.php"
+		"/Applications/mampstack-5.4.35-0/frameworks/laravel/app/views/emails/auth/reminder.blade.php"
 	],
 	"find":
 	{
@@ -208,6 +227,30 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"btn_models",
+			"txt_title",
+			"100",
+			"100vw",
+			"history",
+			"\n\n",
+			"slideController",
+			"div",
+			"slideControllerUp",
+			"slideControllerDown",
+			"button",
+			"slideControllerUp",
+			"slideControllerDown",
+			"slideControllerUp",
+			"slideController",
+			"slideControllerd",
+			"slide",
+			"class=\"carousel-caption",
+			"class",
+			"carousel-example-generic",
+			"width",
+			"carouselItem",
+			"item",
+			"button",
 			"255",
 			"center",
 			"lbl_search",
@@ -260,58 +303,30 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "views/hello.php",
+					"file": "views/homepage.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4415,
+						"buffer_size": 1787,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1511,
-								1511
+								1593,
+								1593
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 125.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "views/homepage",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -321,20 +336,48 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "routes.php",
+					"buffer": 1,
+					"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/homepage.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 526,
+						"buffer_size": 345,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
 							]
 						],
 						"settings":
@@ -345,68 +388,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1891,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								917,
-								917
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 424.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Applications/mampstack-5.4.35-0/frameworks/laravel/public/js/carousel.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 852,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								282,
-								282
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -458,6 +440,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"home",
+				"public/css/homepage.css"
+			],
+			[
+				"models",
+				"public/js/models.js"
+			],
+			[
+				"mod",
+				"app/views/models.php"
+			],
 			[
 				"routes",
 				"app/routes.php"

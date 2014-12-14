@@ -31,11 +31,11 @@
 			<p>Ils symbolisent votre histoire, nous les érigeons en Totem.</p>
 			<p>Des symboles, un totem, des milliers de POTEMs à écrire.</p>
 		</div>
-		<a id="slideControllerDown" class="slideController" href="#slide2"><span class="fa fa-chevron-circle-down fa-5x"></span></a>
-	</div>
 
-	<div id="slide2" class="slide">
-		<a id="slideControllerUp" class="slideController" href="#slide1"><span class="fa fa-chevron-circle-up fa-5x"></span></a>
+		<div>
+			<a id="btn_models" class="btn btn-default"><span class="fa fa-chevron-circle-right"></span> Créez votre totem</a>
+		</div>
+
 	</div>
 
 	<script src="js/homepage.js"></script>
