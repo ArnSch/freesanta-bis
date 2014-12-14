@@ -51,16 +51,15 @@
 
 	<div class="containerCarousel container">
 		<div id="owl-demo" class="owl-carousel owl-theme">
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/Longship2.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/boombox.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/creeperHulk.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/geyiksoooon.STL?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/otterMeshSmallSmooth.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/rat-fix-r.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/SurfBoard01.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/vipWhole.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/app/stl/stern.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
 		</div>
 	</div>
 	<script src="js/carousel.js"></script>
