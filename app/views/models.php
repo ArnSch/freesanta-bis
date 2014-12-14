@@ -39,7 +39,7 @@
 
 	<div id="resultModel" class="container">
 		<div class="row"><div class="column">
-			<script src="https://embed.github.com/view/3d/gklyne/things/master/FenderHook/FenderHook.stl?height=600&width=900"></script>
+			<script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/result.stl?height=300&width=450"></script>
 		</div></div>
 	</div>
 
