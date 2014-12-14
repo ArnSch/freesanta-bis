@@ -59,10 +59,10 @@
 
 	<div class="containerCarousel container">
 		<div id="owl-demo" class="owl-carousel owl-theme">
-			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/Longship2.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/boombox.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/creeperHulk.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/geyiksoooon.STL?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/key.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/3125-18_BOLT2.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/diamondring2.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/ArnSch/freesanta-bis/master/public/stl/The_BananaRESO.STL?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
 		</div>
 	</div>
 
