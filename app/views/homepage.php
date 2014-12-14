@@ -33,7 +33,7 @@
 		</div>
 
 		<div>
-			<a id="btn_models" class="btn btn-default"><span class="fa fa-chevron-circle-right"></span> Créez votre totem</a>
+			<a id="btn_models" href="/models" class="btn btn-default"><span class="fa fa-chevron-circle-right"></span> Créez votre totem</a>
 		</div>
 
 	</div>
