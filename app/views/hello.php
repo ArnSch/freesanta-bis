@@ -22,8 +22,7 @@
 	<!-- Perso -->
 </head>
 <body>
-
-	<div id="selectedModels" class="container" style="">
+	<div id="selectedModels" class="container">
 		<div class="row"><div class="column">
 			<div class="selectedModelContainer"></div>
 			<div class="selectedModelContainer"></div>
@@ -34,14 +33,18 @@
 		</div></div>
 	</div>
 
+	<div id="resultModel" class="container">
+		<div class="row"><div class="column">
+			<script src="https://embed.github.com/view/3d/gklyne/things/master/FenderHook/FenderHook.stl?height=600&width=900"></script>
+		</div></div>
+	</div>
+
+	<div id="resultModel" class="container">
+		<button id="btn_merge" class="btn btn-default">Merge</button>
+	</div>
+
 	<div class="containerCarousel container">
 		<div id="owl-demo" class="owl-carousel owl-theme">
- 			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
 			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
 			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
 			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>

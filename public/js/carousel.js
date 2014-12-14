@@ -1,4 +1,6 @@
 $(document).ready(function() {
+	$("#resultModel").hide();
+	$("#btn_merge").hide();
 	$("#owl-demo").owlCarousel({
 	navigation: true,
 	items: 2,
@@ -7,21 +9,25 @@ $(document).ready(function() {
 			"<i class='fa fa-chevron-circle-right fa-3x'></i>"
 		]
 	});
-	$(".item").each(function(index, el) {
-		var url = $(this).attr('src');
-		jQuery.getScript(url);
-	});
 });
 
 $("body").on('click', ".item", function(event){
-	console.log("click");
 	var clone = $(this).clone();
+	var added = false;
 	$(".selectedModelContainer").each(function(index, el) {
-		console.log($(this).html());
-		if ($(this).html() === ""){
-			console.log("clone");
+		if (!$(this).hasClass('full') && !added){
+			added = true;
 			$(this).append(clone);
+			$(this).addClass('full')
+			$(this).css('background-color', 'white');
 			return ;
 		}
 	});
+	if ($(".full").length === 4)
+		$("#btn_merge").show();
+});
+
+$("#btn_merge").click(function(event) {
+	$("#selectedModels").hide();
+	$("#resultModel").show();
 });

@@ -4,6 +4,15 @@
   padding-left:150px;
   padding-top:25px;
 }
+#resultModel{
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:150px;
+  padding-top:25px;
+}
+#btn_merge{
+  width: 905px;
+}
 .selectedModelContainer{
   display: inline-block;
   float: left;
