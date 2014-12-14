@@ -24,12 +24,9 @@
 		<div id="history">
 			<p class="txt_title">POTEM</p>
 			<p>Totémisez vos histoires</p>
-			<p>Vos histoires entre potes sont cultes.</p>
-			<p>Avec POTEM, vous les racontez à travers un totem.</p>
-			<p>/ Offrez un objet culte : le totem de votre histoire.</p>
-			<p>Choisissez des objets dans notre bibliothèque,</p>
-			<p>Ils symbolisent votre histoire, nous les érigeons en Totem.</p>
-			<p>Des symboles, un totem, des milliers de POTEMs à écrire.</p>
+			
+			<p>Offrez un objet culte : le totem de votre histoire.</p>
+
 		</div>
 
 		<div>
