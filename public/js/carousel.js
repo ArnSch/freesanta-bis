@@ -12,6 +12,8 @@ $(document).ready(function() {
 });
 
 $("body").on('click', ".item", function(event){
+	$("#helper-start").hide("fast");
+	$(this).find(".btn-add").remove();
 	var clone = $(this).clone();
 	var added = false;
 	$(".selectedModelContainer").each(function(index, el) {

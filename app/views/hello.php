@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Potem</title>
-	<script src="//www.sculpteo.com/js/sculpteo.widget.js" type="text/javascript"></script>
 	<!-- CSS -->
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.css">
@@ -22,6 +21,13 @@
 	<!-- Perso -->
 </head>
 <body>
+
+	<div id="helper-start" class="container">
+		<div class="row"><div class="column">
+			<h1 class="how-to">Créez un cadeau personalisé</h1>
+			<p class="description">Commencez par selectionez des objects qui vous lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+		</div></div>
+	</div>
 	<div id="selectedModels" class="container">
 		<div class="row"><div class="column">
 			<div class="selectedModelContainer"></div>
@@ -45,16 +51,16 @@
 
 	<div class="containerCarousel container">
 		<div id="owl-demo" class="owl-carousel owl-theme">
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
-			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
+			<div class="item"><script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=450"></script><button class="btn btn-default btn-add">Add</button></div>
 		</div>
 	</div>
 	<script src="js/carousel.js"></script>
